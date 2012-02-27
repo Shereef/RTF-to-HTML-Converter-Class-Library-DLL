@@ -1,0 +1,13 @@
+*.cache
+*.FileListAbsolute.txt
+*.pdb
+*.dll
+*.exe
+*/bin
+*/obj
+*/bin/*
+*/obj/*
+bin
+obj
+*.suo
+*.bat
